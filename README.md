@@ -1,5 +1,6 @@
 # KeyEcho
 
+![Assembly](https://img.shields.io/badge/Assembly-999999?style=for-the-badge&logo=assembly&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **KeyEcho** is an Assembly program that captures keyboard input and displays it on the screen in real-time, automatically adding a new line after each character. This project is ideal for those who are beginning to explore Assembly language and want to understand how to interact with hardware at a low level.
